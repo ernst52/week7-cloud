@@ -62,4 +62,4 @@ const healthCheck = async () => {
     }
 };
 
-module.exports = { pool, query, healthCheck };z
+module.exports = { pool, query, healthCheck };
