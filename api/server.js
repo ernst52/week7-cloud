@@ -63,6 +63,7 @@ const corsOptions = {
     credentials: true
 };
 
+
 app.use(cors(corsOptions));
 
 // Body parser
